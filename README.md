@@ -13,8 +13,8 @@ i.e. details on me, Adron!
 
 ## Current Work
 
-  I'm a developer at Hasura, where I routinely speak, write, and provide materials around all the cool stuff related to the Hasura GraphQL product and tooling. But more than that, I delve into development patterns, practices, hacks, tips, tricks, and a lot more. Tune into some of the aforementioned channels and check out the plethora of material I have plus a bit of heavy metal, biking, and life hacks as lagniappe!
-
+Updates coming soon!
+ 
 ## Current WIP & Notable Repos
 
 * [Current Work in Progress(WIP)](https://github.com/users/Adron/projects/2) - This is the global project for my respective projects that I'm currently working on in some way.
