@@ -23,4 +23,3 @@ Updates coming soon!
 ## Refactoring
 
 * [tenancy-bydata](https://github.com/Adron/tenancy-bydata) is a project I'm working on to use as a base for deployment of solutions on Hasura that require multitenancy, i.e. you want to roll out an inexpensive **SAaaS** (**S**omething **A**nother **a**s **a** **S**ervice).
-* 
