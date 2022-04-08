@@ -20,6 +20,9 @@ Updates coming soon!
 * [Current Work in Progress(WIP)](https://github.com/users/Adron/projects/2) - This is the global project for my respective projects that I'm currently working on in some way.
 * [Example Go CLI w/ Cobra Repo](https://github.com/Adron/cobra-cli-samples) - A repo that provide a very basic, rudimentary use and implementation of a few of the features that are available with the Cobra CLI library for Go.
 
+
+* [Secret](https://github.com/Lenadron/an-idea) - Nothing to see here.
+
 ## Refactoring
 
 * [tenancy-bydata](https://github.com/Adron/tenancy-bydata) is a project I'm working on to use as a base for deployment of solutions on Hasura that require multitenancy, i.e. you want to roll out an inexpensive **SAaaS** (**S**omething **A**nother **a**s **a** **S**ervice).
