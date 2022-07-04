@@ -9,7 +9,6 @@ i.e. details on me, Adron!
 * [📹 - Thrashing Code @ Twitch](https://twitch.tv/thrashingcode)
 * [✍️ - Composite Thrashing Code](https://compositecode.blog)
 * [📸 - Instagram](https://www.instagram.com/adron)
-* [📰 - dev.to](https://dev.to/adron)
 
 ## Current Work
 
