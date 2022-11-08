@@ -4,7 +4,8 @@ i.e. details on me, Adron!
 
 ## Web Presence
 
-* [🐦 - @Adron on Twitter](https://twitter.com/adron)
+* Twitter is mostly dead, I ahd a link, I've killed it and moved to...
+* [🐘 - Adron @ metalhead.club](https://metalhead.club/web/@adron)
 * [📺 - Thrashing Code @ YouTube](https://youtube.com/thrashingcode)
 * [📹 - Thrashing Code @ Twitch](https://twitch.tv/thrashingcode)
 * [✍️ - Composite Thrashing Code](https://compositecode.blog)
