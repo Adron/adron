@@ -8,6 +8,7 @@ i.e. details on me, Adron!
 * [🐘 - Adron @ metalhead.club](https://metalhead.club/web/@adron)
 * [📺 - Thrashing Code @ YouTube](https://youtube.com/thrashingcode)
 * [📹 - Thrashing Code @ Twitch](https://twitch.tv/thrashingcode)
+* [📚 - Cohost](https://cohost.org/adron)
 * [✍️ - Composite Thrashing Code](https://compositecode.blog)
 * [📸 - Instagram](https://www.instagram.com/adron)
 
