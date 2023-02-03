@@ -6,6 +6,7 @@ i.e. details on me, Adron!
 
 * Twitter is mostly dead, I had a link here, but I've killed it and moved to...
 * [🐘 - Adron @ metalhead.club](https://metalhead.club/web/@adron)
+* [🛠️ - Adron @ Gitlab](https://gitlab.com/Adron)
 * [📺 - Thrashing Code @ YouTube](https://youtube.com/thrashingcode)
 * [📹 - Thrashing Code @ Twitch](https://twitch.tv/thrashingcode)
 * [📚 - Cohost](https://cohost.org/adron)
