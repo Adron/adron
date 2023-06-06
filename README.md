@@ -25,3 +25,4 @@ Updates coming soon!
 * [Estuary](https://adron.github.io/estuary/) - A data generation tool for GraphQL.
 * [Terrazura](https://adron.github.io/terrazura/) - A deployable [Hasura](https://hasura.io/) instance in [Azure](https://portal.azure.com/) using [Terraform](https://www.terraform.io/downloads).
 * [Recursion](https://github.com/Adron/recursions) - A collection of code samples showing recursion in various languages.
+* [Stereo Build](https://github.com/Adron/stereo-build) - The details of the home stereo build; turn table, floor speakers, etc.
