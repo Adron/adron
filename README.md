@@ -16,7 +16,7 @@ i.e. details on me, Adron!
 ## Current Work
 
 * [Current Work in Progress(WIP)](https://github.com/users/Adron/projects/2) - This is the global project for my respective projects that I'm currently working on in some way.
-* [GraphQL Curricum for Training]() - A curriculum for ramping up on GraphQL use. Currently focused on a general use of GraphQL but will extend it to focus on GraphQL for Spring using Java.
+* [GraphQL Curricum for Training](https://adron.github.io/adrons-graphql-enterprise-course/) - A curriculum for ramping up on GraphQL use. Currently focused on a general use of GraphQL but will extend it to focus on GraphQL for Spring using Java.
 * [Estuary](https://adron.github.io/estuary/) - A data generation tool for GraphQL.
 * [Recursion](https://github.com/Adron/recursions) - A collection of code samples showing recursion in various languages.
 * [Stereo Build](https://github.com/Adron/stereo-build) - The details of the home stereo build; turn table, floor speakers, etc.
