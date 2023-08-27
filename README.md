@@ -22,8 +22,8 @@ i.e. details on me, Adron!
 * [Recursion](https://github.com/Adron/recursions) - A collection of code samples showing recursion in various languages.
 * [Stereo Build](https://github.com/Adron/stereo-build) - The details of the home stereo build; turn table, floor speakers, etc.
 
-## Current WIP & Notable Repos
+## Notable Repos
 
-* [Hasura Quick Start](https://github.com/Adron/hasura-quick-start) with a [Spring Boot GraphQL API](https://github.com/Adron/hasura-spring-boot-graphql).
+* [Hasura Quick Start](https://github.com/Adron/hasura-quick-start) with a [Spring Boot GraphQL API](https://github.com/Adron/hasura-spring-boot-graphql) and [.NET GraphQL API](https://github.com/Adron/hasura-dotnet-graphql).
 * [Example Go CLI w/ Cobra Repo](https://github.com/Adron/cobra-cli-samples) - A repo that provide a very basic, rudimentary use and implementation of a few of the features that are available with the Cobra CLI library for Go.
 * [Terrazura](https://adron.github.io/terrazura/) - A deployable [Hasura](https://hasura.io/) instance in [Azure](https://portal.azure.com/) using [Terraform](https://www.terraform.io/downloads).
