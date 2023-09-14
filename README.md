@@ -6,10 +6,11 @@ i.e. details on me, Adron!
 
 * [🐦 - Adron @ twitter.com](https://twitter.com/adron)
 * [🐘 - Adron @ metalhead.club](https://metalhead.club/web/@adron)
+* [🧵 - Adron @ Threads](https://www.threads.net/@adron)
 * [🛠️ - Adron @ Gitlab](https://gitlab.com/Adron)
+* [🔩 - Adron @ Github](https://github.com/Adron) (which is obviously where this page is! 🤣 But link included for completeness.)
 * [📺 - Thrashing Code @ YouTube](https://youtube.com/thrashingcode) - for description and clarity of my YouTube channel check out my [VLOG org page](vlog-org.md).
 * [📹 - Thrashing Code @ Twitch](https://twitch.tv/thrashingcode)
-* [📚 - Cohost](https://cohost.org/adron)
 * [✍️ - Composite Thrashing Code](https://compositecode.blog)
 * [📸 - Instagram](https://www.instagram.com/adron)
 * [📚 - VLOG org page](vlog-org.md)
