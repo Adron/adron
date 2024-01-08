@@ -15,6 +15,11 @@ i.e. details on me, Adron!
 * [📸 - Instagram](https://www.instagram.com/adron)
 * [📚 - VLOG org page](vlog-org.md)
 
+## Work Related Github Account
+
+* [Adron @ Kaleyra]([url](https://github.com/adronkaleyra))
+* [Adron @ Home Depot]([url](https://github.com/adron-orange))
+
 ## Current Work
 
 * [Current Work in Progress(WIP)](https://github.com/users/Adron/projects/2) - This is the global project for my respective projects that I'm currently working on in some way.
