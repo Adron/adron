@@ -16,6 +16,7 @@ I have three blogs that relate to the above. This is the mapping. In "transit ne
 * **BLOG** [Transit Sleuth](https://transitsleuth.com/) @ https://transitsleuth.com/ -> [VLOG - All The Things 🤘🏻](https://www.youtube.com/playlist?list=PL4f75Y6Ce5sur4DPb51iYAmzIoNEV2g7_)
   * [Pittsburgh](https://www.youtube.com/playlist?list=PL4f75Y6Ce5ssKiMeqg-Y3V8ljW4shzThQ)
 * **BLOG** [Vicious Shred](https://viciousshred.com/) @ https://viciousshred.com/ -> [Music Reviews & Reactions](https://www.youtube.com/playlist?list=PL4f75Y6Ce5stuRO-A1xAJcEBPkXe0IJtI)
+* **BLOG** [Bakfiets](https://bakfiets.bike/) @ https://bakfiets.bike/
  * [Home Stereo Build](https://www.youtube.com/playlist?list=PL4f75Y6Ce5svAB2NshWX8SawnSfHXGxIu) and the Github Repo with detailed specifications and other information is located [here](https://adron.github.io/stereo-build/).
  * [Music Album Opening Vids](https://viciousshred.com/reviews/)
  * [Music Reaction Videos](https://viciousshred.com/reaction-vids/)
