@@ -23,6 +23,7 @@ i.e. details on me, Adron!
 ## Current Work
 
 * [Current Work in Progress(WIP)](https://github.com/users/Adron/projects/2) - This is the global project for my respective projects that I'm currently working on in some way.
+* [Collector's Tune Tracker](https://github.com/Adron/collectorstunetracker) - The latest project I'm working on to build out a album/vinyl/cassette/CD/digital collections tracker.
 * [GraphQL Curricum for Training](https://adron.github.io/adrons-graphql-enterprise-course/) - A curriculum for ramping up on GraphQL use. Currently focused on a general use of GraphQL but will extend it to focus on GraphQL for Spring using Java.
 * [Estuary](https://adron.github.io/estuary/) - A data generation tool for GraphQL.
 * [Recursion](https://github.com/Adron/recursions) - A collection of code samples showing recursion in various languages.
