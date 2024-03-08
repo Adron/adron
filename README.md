@@ -17,8 +17,8 @@ i.e. details on me, Adron!
 
 ## Work Related Github Account
 
-* [Adron @ Kaleyra]([url](https://github.com/adronkaleyra))
-* [Adron @ Home Depot]([url](https://github.com/adron-orange))
+* [Adron @ Kaleyra](https://github.com/adronkaleyra)
+* [Adron @ Home Depot](https://github.com/adron-orange)
 
 ## Current Work
 
