@@ -10,7 +10,7 @@ i.e. details on me, Adron!
 * [✍️ - Composite Thrashing Code](https://compositecode.blog)
 * [📸 - Instagram](https://www.instagram.com/adron)
 * [📚 - VLOG org page](vlog-org.md)
-* [📺 - Coding & Shorts @ Thrashing Code on YouTube](https://youtube.com/thrashingcode) - for description and clarity of my YouTube channel check out my [VLOG org page](vlog-org.md).
+* [📺 - Coding AI & Analysis](https://www.youtube.com/playlist?list=PL4f75Y6Ce5st7_CKBL4jKsm4K8fV9Mwuz) & [Hasura Shorts](https://www.youtube.com/playlist?list=PL4f75Y6Ce5sty7iWwLUq55aZNiA9u7vWc) @ Thrashing Code on YouTube - for description and clarity of my YouTube channel check out my [VLOG org page](vlog-org.md).
 * [📹 - Thrashing Code on Twitch](https://twitch.tv/thrashingcode)
 
 ## Work Related Github Account
