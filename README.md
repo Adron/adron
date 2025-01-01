@@ -20,7 +20,7 @@ i.e. details on me, Adron!
 
 ## Current Work
 
-* [Current Work in Progress(WIP)](https://github.com/users/Adron/projects/2) - This is the global project for my respective projects that I'm currently working on in some way.
+* ***Current WIP to be updated and linked here soon (January 1st, 2025)***
 * [Collector's Tune Tracker](https://github.com/Adron/collectorstunetracker) - The latest project I'm working on to build out a album/vinyl/cassette/CD/digital collections tracker.
 * [Data Diluvium](https://datadiluvium.com/) - A data generation tool for GraphQL.
 * [Recursion](https://github.com/Adron/recursions) - A collection of code samples showing recursion in various languages.
