@@ -29,16 +29,3 @@ i.e. details on me, Adron!
 * [Hasura Quick Start](https://github.com/Adron/hasura-quick-start) with a [Spring Boot GraphQL API](https://github.com/Adron/hasura-spring-boot-graphql) and [.NET GraphQL API](https://github.com/Adron/hasura-dotnet-graphql).
 * [Example Go CLI w/ Cobra Repo](https://github.com/Adron/cobra-cli-samples) - A repo that provide a very basic, rudimentary use and implementation of a few of the features that are available with the Cobra CLI library for Go.
 * [Terrazura](https://adron.github.io/terrazura/) - A deployable [Hasura](https://hasura.io/) instance in [Azure](https://portal.azure.com/) using [Terraform](https://www.terraform.io/downloads).
-
-* Golang Concurrency Posts
-  * [Index post](https://compositecode.blog/2025/06/22/concurrency-patterns-in-go-a-short-deep-dive-series/)
-  * [Pipeline Paattern](https://compositecode.blog/2025/06/22/go-concurrency-patternspipeline-pattern/)
-  * [Fan-out/Fan-in Pattern](https://compositecode.blog/2025/06/23/fan-out-fan-in-pattern/)
-  * [Worker Pools Pattern](https://compositecode.blog/2025/06/24/go-concurrency-patternsworker-pools-pattern/)
-  * [Producer-Consumer Pattern](https://compositecode.blog/2025/06/25/go-concurrency-patternsproducer-consumer-pattern/)
-  * [Supervisor/Restart Pattern](https://compositecode.blog/2025/06/26/go-concurrency-patternssupervisor-restart-pattern/)
-  * [Publish-Subscribe (Pub/Sub) Pattern](https://compositecode.blog/2025/06/27/go-concurrency-patternspublish-subscribe-pub-sub-pattern/)
-  * [Timeouts and Cancellation Pattern](https://compositecode.blog/2025/06/30/go-concurrency-patternstimeouts-and-cancellation-pattern/)
-  * [Rate Limiting Pattern](https://compositecode.blog/2025/07/01/go-concurrency-patternsrate-limiting-pattern/)
-    
- 
