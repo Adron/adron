@@ -19,6 +19,9 @@ i.e. details on me, Adron!
 * [Adron @ Kaleyra](https://github.com/adronkaleyra)
 * [Adron @ Home Depot](https://github.com/adron-orange)
 
+* [Azure Samples](https://github.com/Azure-Samples) - Repo [Azure SQL DB GraphQL Hasura](https://github.com/Azure-Samples/azure-sql-db-graphql-hasura)
+* [KushDirect](https://github.com/KushDirect) - 
+
 ## Current Work
 
 * [Current Work in Progress(WIP)](https://github.com/users/Adron/projects/2) - This is the global project for my respective projects that I'm currently working on in some way.
