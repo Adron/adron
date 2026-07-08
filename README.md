@@ -18,7 +18,7 @@ i.e. details on me, Adron!
 
 * [Adron @ Kaleyra](https://github.com/adronkaleyra)
 * [Adron @ Home Depot](https://github.com/adron-orange)
-
+* [CompositeCode](https://github.com/CompositeCode)
 * [Azure Samples](https://github.com/Azure-Samples) - Repo [Azure SQL DB GraphQL Hasura](https://github.com/Azure-Samples/azure-sql-db-graphql-hasura)
 * [KushDirect](https://github.com/KushDirect) - 
 
