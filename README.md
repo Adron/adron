@@ -20,14 +20,13 @@ i.e. details on me, Adron!
 * [Adron @ Home Depot](https://github.com/adron-orange)
 * [CompositeCode](https://github.com/CompositeCode)
 * [Azure Samples](https://github.com/Azure-Samples) - Repo [Azure SQL DB GraphQL Hasura](https://github.com/Azure-Samples/azure-sql-db-graphql-hasura)
-* [KushDirect](https://github.com/KushDirect) -
-* [InterlinedList](httsp://github.com/CompositeCode)
 
 ## Current Work
 
-* [Current Work in Progress(WIP)](https://github.com/users/Adron/projects/2) - This is the global project for my respective projects that I'm currently working on in some way.
+* [KushDirect](https://github.com/KushDirect) -
+* [InterlinedList](httsp://github.com/CompositeCode)
 * [Collector's Tune Tracker](https://github.com/Adron/collectorstunetracker) - The latest project I'm working on to build out a album/vinyl/cassette/CD/digital collections tracker.
-* [Stereo Build](https://github.com/Adron/stereo-build) - The details of the home stereo build; turn table, floor speakers, etc.
+* [Stereo Build](https://github.com/Adron/stereo-build) - The details of the home stereo build; turn table, floor speakers, etc. Pretty old now, but it never really stops being an active build. Will update when updates come.
 
 ## Notable Repos
 
