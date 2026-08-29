@@ -23,8 +23,9 @@ i.e. details on me, Adron!
 
 ## Current Work
 
-* [KushDirect](https://github.com/KushDirect) -
 * [InterlinedList](httsp://github.com/CompositeCode)
+* [DashingArrivals](https://dashingarrivals.com)
+* [KushDirect](https://github.com/KushDirect)
 * [Collector's Tune Tracker](https://github.com/Adron/collectorstunetracker) - The latest project I'm working on to build out a album/vinyl/cassette/CD/digital collections tracker.
 * [Stereo Build](https://github.com/Adron/stereo-build) - The details of the home stereo build; turn table, floor speakers, etc. Pretty old now, but it never really stops being an active build. Will update when updates come.
 
